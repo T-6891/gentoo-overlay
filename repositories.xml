@@ -1,0 +1,12 @@
+<repositories version="1.0">
+<repo priority="50" quality="experimental" status="unofficial">
+<name>T-6891</name>
+<description>T-6891's overlay for sharing ebuilds</description>
+<homepage>https://github.com/T-6891/gentoo_overlay</homepage>
+<owner>
+<email>master@T-Brain.ru</email>
+<name>T-6891</name>
+</owner>
+<source type="git">https://github.com/T-6891/gentoo_overlay.git</source>
+</repo>
+</repositories>
