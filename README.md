@@ -1,4 +1,4 @@
-gentoo-overlay
+Gentoo Overlay
 ==============
 
 Overlay for Gentoo/Linux packages
@@ -10,3 +10,4 @@ This overlay is not official! Use at your own risk!
 ### layman
 
 layman -f -o https://github.com/T-6891/gentoo-overlay/repositories.xml -a T-6891
+
